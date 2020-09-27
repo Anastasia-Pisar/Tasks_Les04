@@ -12,7 +12,7 @@ public class Task10 {
 		print(mas);
 		positiveElement(mas);
 	}
-
+	
 	public static void matrix(int[][] mas) {
 
 		Random rand = new Random();
